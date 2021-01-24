@@ -6,7 +6,7 @@ from codeforces import *
 from atcoder import *
 
 print(
-    """\n\n    Welcome to Tetul-Monta Terminal Version:
+    """\n\n    Welcome to Khajana Terminal Version:
 
     [ Available extensions for python,Java,Kotlin,C/C++.For other language it makes text file only. ]
 

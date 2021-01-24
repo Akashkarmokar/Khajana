@@ -7,7 +7,7 @@ from fileName import *
 
 # Codeforces code parser function
 def codeforces():
-    user_handle = input("Enter your handle:")
+    user_handle = input("\nEnter your handle:")
     print("\n\nYour All code will be save in OJ named directory! \n")
     user_handle = user_handle.lower().strip()
 
