@@ -66,8 +66,8 @@ def codeforces():
                             count = count + 1
 
                         except Exception as e:
-                            print("---->: Something is wrong with " + title + "contest id->" + str(
-                                contest_id) + "submission id->" + str(submission_id) + ".")
+                            print("---->: Something is wrong with " + title + " contest id-> " + str(
+                                contest_id) + " submission id-> " + str(submission_id) + ".")
 
                 except ConnectionError as e:
                     print("---->: Something is wrong with " + title + "contest id->" + str(
