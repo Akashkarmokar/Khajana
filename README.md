@@ -8,6 +8,7 @@ GITHUB : [https://github.com/Akashkarmokar/Khajana](https://github.com/Akashkarm
 * Downloads accepted code from codeforces OJ.
 * See total submission.
 * See total Acception number.
+* Language support C/C++,Java,Python,Kotlin (Without these it save your code in .txt extension).
 
 Note:- Khajana will save all the Codes and Problem Statement in following directory format :  
 (Online Judge) / (Handle) /(ProblemName.(Ext)
