@@ -5,7 +5,7 @@ GITHUB : [https://github.com/Akashkarmokar/Khajana](https://github.com/Akashkarm
 
 
 ## Features
-* Downloads accepted code from codeforces OJ.
+* Downloads accepted code from codeforces OJ.(Only regular contest like CF round-div1,div2,div3,Edu CF round)
 * See total submission.
 * See total Acception number.
 * Language support C/C++,Java,Python,Kotlin (Without these it save your code in .txt extension).
@@ -13,7 +13,7 @@ GITHUB : [https://github.com/Akashkarmokar/Khajana](https://github.com/Akashkarm
 Note:- Khajana will save all the Codes and Problem Statement in following directory format :  
 (Online Judge) / (Handle) /(ProblemName.(Ext)
 
-You can not get your gym accepted submission code.(It will be available in next version update)
+You can not get your gym,mirror contest's accepted submission code.For this you will see somethng wrong (It will be available in next version update).
 
 ## Requirements
 * Python 3  
